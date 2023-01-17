@@ -23,5 +23,3 @@ Enlaces de Los Grupos y Canales Oficiales de Telegram de Aero
 [![Rights](https://custom-icon-badges.demolab.com/badge/Copyrights%20-AeroInsta%E3%85%A4-green?logo=copyright1&logoColor=white)](https://github.com/ikx7a)
 
 </div>
-
-[![0](https://custom-icon-badges.demolab.com/badge/telegram-blue.svg?logo=icons8-telegram-app-30=white)]()
