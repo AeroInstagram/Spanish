@@ -28,7 +28,7 @@ Puede acceder a miles de funciones increíbles que no podría hacer en la Insta 
 
 A través de AeroInsta, no verá ningún anuncio aburrido de Insta. Simplemente actualice su feed una vez y diga adiós a los anuncios aburridos.
 
-<a href="https://github.com/AeroInstagram/.github/tree/main/Español/features"> `Ver nuestras características` </a>
+<a href="https://github.com/AeroInstagram/Spanish/tree/main/caracter%C3%ADsticas"> `Ver nuestras características` </a>
 
 [![@ikx7a](https://github.com/AeroInstagram/.github/blob/main/Assets/images-video.png)](https://github.com/AeroInstagram)
 
@@ -93,7 +93,7 @@ Fuat Edip Baksı ST. Turkey
 
 **CARACTERISTICAS**
 
-<a href="https://github.com/AeroInstagram/.github/tree/main/features">Ver nuestras características </a>
+<a href="https://github.com/AeroInstagram/Spanish/tree/main/caracter%C3%ADsticas">Ver nuestras características </a>
 
 **JURÍDICO**
 
