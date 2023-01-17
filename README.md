@@ -93,7 +93,7 @@ Fuat Edip Baksı ST. Turkey
 
 **CARACTERISTICAS**
 
-<a href="https://github.com/AeroInstagram/Spanish/tree/main/Caracter%C3%ADsticas">Ver nuestras características </a>
+<a href="https://github.com/AeroInstagram/Spanish/tree/main/Characteristics">Ver nuestras características </a>
 
 **JURÍDICO**
 
