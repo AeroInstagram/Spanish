@@ -69,7 +69,7 @@ Descárguelo ahora y disfrute de Aero Privilegios.**
 
 **¿Preguntas no enumeradas arriba?**
 
-**¡Entonces únete a los grupos Aero oficiales y solicita ayuda! [Unirse]()**
+**¡Entonces únete a los grupos Aero oficiales y solicita ayuda! [Unirse](https://github.com/AeroInstagram/Spanish/tree/main/Comunidad)**
 
 <br><br><br>
 
